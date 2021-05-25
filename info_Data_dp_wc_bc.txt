@@ -1,0 +1,5 @@
+Raman spectra from mice tissues, averaged from each tissue map after despiking, wavenumber calibration and baseline correction. Details of these pre-processing steps are referred to S. Guo, et al., Journal of Chemometrics, 2020, 34: e3202.
+
+Intensities at different wavenumbers are saved column-wise. 
+
+The ID, annotation, and type of the tissues are included as separate columns in the file.
